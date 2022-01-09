@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Apps/FailleWinter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Apps/Fallie_Winter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Apps/Hack/DrowsinessDetectorApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Appp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Appp/react-firechat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/CHAT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/CHAT/react-firebase-chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Filee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Filee/react_file_uploader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/MiChat App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/MiChatt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/MiChatt/firebase-chat-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Project/react-website-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/React-Expenses-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/React-expenses App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/React_Weather_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/React_Weather_App/weather_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/React_food App/smart-recipe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/Robovitics web/calender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/To_do_List" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Websites/react-expense" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git/git-session" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246752939674",
+    "project_id": "sleepbitt",
+    "storage_bucket": "sleepbitt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246752939674:android:704238c93cfdfa5bc85923",
+        "android_client_info": {
+          "package_name": "com.example.sleepbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246752939674-fgahq9d2j9s1lgubr629o93rjg4bseu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sleepbit",
+            "certificate_hash": "09be086b3c27a881c21533213b854aa8c38d8662"
+          }
+        },
+        {
+          "client_id": "246752939674-qedd7vhjfh3513dbbin0n0bplujkgqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4OtO4TIUjf03uj5oUqihNyfV3M6XS-8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246752939674-qedd7vhjfh3513dbbin0n0bplujkgqt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
